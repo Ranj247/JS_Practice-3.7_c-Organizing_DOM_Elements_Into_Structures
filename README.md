@@ -1,1 +1,1 @@
-# [3.7_c-Organizing DOM Elements Into Structures]()
+# [3.7_c-Organizing DOM Elements Into Structures](https://ranj247.github.io/JS_Practice-3.7_c-Organizing_DOM_Elements_Into_Structures/)
